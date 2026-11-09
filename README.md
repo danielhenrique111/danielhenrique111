@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @ danielhenrique111
+- 👋 Hi, I'm @ danielhnrriqe  
 - 👀 I'm interested in learning, knowing and understanding more about programming and automations and codes and their phases..
 - 🌱 I'm currently learning, Python, SQL,
 - 💞️ I'm looking to collaborate in Python, Html, Css, C #, C ++, AngularJs, JavaScript, TypeScript, SQL, in anything that can give me the benefits of knowledge.
